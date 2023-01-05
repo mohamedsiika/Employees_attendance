@@ -1,0 +1,2 @@
+EMP01 2020-04-03
+{'attended': True, 'duration': '12:05:00'}
