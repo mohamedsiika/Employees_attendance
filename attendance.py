@@ -136,6 +136,7 @@ if __name__=="__main__":
     x=Read_db()
     print(x.get_attendance('EMP01','2020-04-03'))
     print(x.attednance_history("EMP01"))
+    x.conn.close()
 
 
 
